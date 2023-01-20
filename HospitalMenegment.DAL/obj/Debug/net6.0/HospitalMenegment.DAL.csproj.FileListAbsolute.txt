@@ -1,0 +1,14 @@
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\bin\Debug\net6.0\HospitalMenegment.DAL.deps.json
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\bin\Debug\net6.0\HospitalMenegment.DAL.runtimeconfig.json
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\bin\Debug\net6.0\HospitalMenegment.DAL.dll
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\bin\Debug\net6.0\HospitalMenegment.DAL.pdb
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.csproj.AssemblyReference.cache
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.AssemblyInfoInputs.cache
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.AssemblyInfo.cs
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.dll
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\refint\HospitalMenegment.DAL.dll
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.pdb
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.genruntimeconfig.cache
+C:\Users\Semed\Desktop\HospitalManagement.WebAPI-master\HospitalMenegment.DAL\obj\Debug\net6.0\ref\HospitalMenegment.DAL.dll
